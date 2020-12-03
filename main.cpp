@@ -75,7 +75,7 @@ class liczby{
 				moc++;
 			moc_liczby++;
 			cout<<"KONIEC"<<endl<<endl<<endl<<"MOC----->"<<moc;
-		}
+		};
 		
 	
 };
